@@ -1,6 +1,11 @@
-# 🚀 1ª Heurística de NielsenI
+# 🛡️ Prevenção de Erros com Try-Catch
 
-Este projeto aplica a 1ª Heurística de Nielsen (Visibilidade do Status do Sistema) que diz que o software deve sempre manter o usuário informado sobre o que está acontecendo, através de feedback apropriado e em tempo razoável.
+O **try-catch** é uma estrutura usada para tratar erros durante a execução de um programa, evitando que ele pare de funcionar inesperadamente.
+
+## 🔗 Relação com a Prevenção de Erros
+
+A heurística de **Prevenção de Erros** de Nielsen defende que o sistema deve evitar erros sempre que possível.  
+O **try-catch** ajuda nisso ao capturar falhas e permitir que o sistema continue funcionando de forma controlada, oferecendo feedback claro ao usuário.
 
 ## 📸 Evidência de Execução
-![Print do terminal rodando o projeto](./minha-evidencia2.png)
+![Print do projeto](./minha-evidencia2.png)
